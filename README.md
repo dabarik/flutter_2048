@@ -1,6 +1,6 @@
 # flutter_2048
 
-A new Flutter project.
+Télécharger le projet puis lancer l'émulateur et enfin lancer le projet avec la fonction : flutter run
 
 ## Getting Started
 
